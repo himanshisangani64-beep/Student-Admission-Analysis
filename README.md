@@ -111,7 +111,7 @@ The dashboard provides an overview of student admissions, branch distribution, a
 **Dashboard Screenshot:**
 
 
-[View Dashboard Image](Images/Student_Admission_Dashboard__Image.png)
+[View Dashboard Image](Images/Student_Admission_Dashboard_Image.png)
 
 ## 🔍 Key Insights
 
